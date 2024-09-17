@@ -1,5 +1,4 @@
 "use client";
-import Image from "next/image";
 import { useState, ChangeEvent, KeyboardEvent } from "react";
 import { Doughnut } from "react-chartjs-2";
 import { Chart, ArcElement } from "chart.js";
